@@ -1,0 +1,17 @@
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/bin/Debug/net7.0/KanyeandRon
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/bin/Debug/net7.0/KanyeandRon.deps.json
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/bin/Debug/net7.0/KanyeandRon.runtimeconfig.json
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/bin/Debug/net7.0/KanyeandRon.dll
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/bin/Debug/net7.0/KanyeandRon.pdb
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.csproj.AssemblyReference.cache
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.AssemblyInfoInputs.cache
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.AssemblyInfo.cs
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.csproj.CoreCompileInputs.cache
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.csproj.CopyComplete
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.dll
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/refint/KanyeandRon.dll
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.pdb
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/KanyeandRon.genruntimeconfig.cache
+/Users/luch/Desktop/Repos/KanyeandRon/KanyeandRon/obj/Debug/net7.0/ref/KanyeandRon.dll
